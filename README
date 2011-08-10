@@ -1,0 +1,8 @@
+Interface Admin Produit
+
+- Visualisation du différentiel entre les différents shops
+	- Produits organisés selon l'ID, la catégorie, la marque ...
+	- Les users organisés selon ?
+- Mise à jour d'un shop vers un autre
+	- Mise à jour complète
+	- Mise à jour partielle (prix ....) 
